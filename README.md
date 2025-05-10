@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anjali-sri
+- 👋 Hi, I’m Anjali Srivastava
 - 👀 I’m interested in Coding and Android Devolopment.
 - 🌱 I’m currently working as a Software Developer at WFX.
 - 💞️ I’m looking to collaborate on open source projects.
